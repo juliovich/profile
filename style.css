@@ -1,0 +1,47 @@
+body {
+  background-color: #c5f0a4;
+  font-family: 'Expletus Sans', cursive;
+}
+.section {
+  background-color: #faffb8;
+  width: 1700px;
+  margin: 20px auto;
+  text-align: center;
+  padding: 10px;
+  border-radius: 7px
+}
+
+#avatar > img {
+  max-width: 400px;
+  max-height: 400px;
+  border-radius: 50%;
+}
+
+.images_table {
+  max-width: 500px;
+  max-height: 500px;
+}
+
+.cards_divs > td > img {
+  padding: 20px;
+}
+
+#hobbies_title {
+  font-size: 60px;
+}
+
+.card_title {
+  font-size: 40px;
+}
+
+#juliovich_title {
+  font-size: 70px;
+}
+
+#about_title {
+  font-size: 40px;
+}
+
+#about_paragraph {
+  font-size: 30px;
+}
